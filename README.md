@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)](https://github.com/nikolaymihov/)
 <h1>Hi, I am Nikolay Mihov! 👋</h1>
 <img align="right" alt="CodingGif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3>A passionate developer from Bulgaria</h3>
